@@ -19,15 +19,15 @@ De la carpeta app dentro de apolo
 ![Imagen 2](conexion/imagen2.2.png)
 
 
-## Instalación y ejecución del proyecto
+## INSTALACION Y EJECUCION DEL PROYECTO
 
 > Sigue estos pasos para obtener una copia delproyecto y ejecutarlo en tu entorno localpara desarrollo y pruebas.
 >
-> **\##** **Prerrequisitos**
+> \## PREREQUISITOS
 >
 > Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu sistema. Puedes descargarlos e instalarlos desde (https://nodejs.org/).
 >
-> **\##** **Clonación** **del** **repositorio**
+> \## CLONACION DEL REPOSITORIO
 >
 > Para clonar elrepositorio y acceder aldirectorio delproyecto, ejecuta los siguientes comandos en tu terminal:
 >
@@ -40,7 +40,7 @@ De la carpeta app dentro de apolo
 > Conexion-Nextjs-GraphQL\-\--Configuracion-usando-la-carpeta-App-y-Apollo-graphQL-
 >
 
-## Client.js
+## CLIENT.JS
 
 En este apartado en resumen nos va permitir utilizar desde backend o digamosle desde "server components" o peticiones de graphql
 
@@ -70,7 +70,7 @@ Se uso esto :
 
 ![Imagen 4](conexion/imagen3.png)
 
-# **GRAPHQL** **Y** **ENDOPOINST**
+# GRAPHQL Y ENDOPOINST
 
 GraphQL es un lenguaje de consulta para APIs y un tiempo de ejecución del lado del servidor para ejecutar esas consultas especificando tus estructuras de datos. Fue desarrollado internamente por Facebook en 2012 antes de ser liberado públicamente en 2015. Ofrece una alternativa más eficiente y flexible a la arquitectura REST tradicional.
 
@@ -96,14 +96,14 @@ endpoint:
 
 Y esta consulta se enviaría a un único endpoint de GraphQL, independientemente de la complejidad o el número de recursos que se estén solicitando.
 
-## USE** **CLIENT**
+## USE CLIENT
 
 El use client no puede llamar funciones de backend, no puede llamar una funcion asyncrona, en componente no puede con un async, se necesita importar de otra forma -\> se necesita un contexto un wrapper es muy comun utilizarlo cuando se utilizan bibliotecas del lado del cliente -\> un apolowrapper
 
 El apollo appprovider viene justo del paquete nextexperimentalsupport
 
 
-## Aprende Más
+## APRENDE MAS
 
 Para aprender más sobre Next.js, echa un vistazo a los siguientes recursos: 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
@@ -111,7 +111,7 @@ Para aprender más sobre Next.js, echa un vistazo a los siguientes recursos:
 
 Puedes revisar el repositorio de GitHub de Next.js - ¡tus comentarios y contribuciones son bienvenidos!
 
-## Despliegue en Vercel
+## DESPLIEGUE EN VERSEL
 
 La forma más fácil de desplegar tu aplicación Next.js es utilizando la Plataforma de [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)  de los creadores de Next.js.
 
