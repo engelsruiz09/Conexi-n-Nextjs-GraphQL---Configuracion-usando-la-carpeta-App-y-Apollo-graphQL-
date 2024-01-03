@@ -88,6 +88,14 @@ Aquí hay algunas características clave de GraphQL:
 
 En el contexto de GraphQL, el término \"endpoint\" se usa de manera diferente que en REST. Mientras que en una API REST podrías tener múltiples endpoints (URLs) para diferentes recursos, en GraphQL típicamente tienes un solo endpoint HTTP (por ejemplo, /graphql) donde todas las consultas son enviadas mediante peticiones POST. Las operaciones específicas, como las consultas para recuperar datos o las mutaciones para cambiar datos, se especifican dentro del cuerpo de la petición.
 
+Aquí hay un ejemplo de cómo podría lucir una consulta GraphQL a un endpoint:
+
+![Imagen 5](conexion/imagen4.png)
+
+
+Y esta consulta se enviaría a un único endpoint de GraphQL, independientemente de la complejidad o el número de recursos que se estén solicitando.
+
+
 ## NEXT.JS
 
 Next.js es un marco de trabajo (framework) de código abierto para aplicaciones web desarrolladas con React. Es especialmente conocido por facilitar la creación de aplicaciones web con características como el renderizado del lado del servidor y la generación de sitios estáticos. Aquí hay algunos puntos clave sobre Next.js:
@@ -113,14 +121,6 @@ Next.js es ideal para:
 - Proyectos que se benefician del renderizado del lado del servidor y/o la generación de sitios estáticos.
 - Desarrolladores que prefieren un marco de trabajo con una curva de aprendizaje relativamente baja pero con características avanzadas.
 
-
-
-Aquí hay un ejemplo de cómo podría lucir una consulta GraphQL a un endpoint:
-
-![Imagen 5](conexion/imagen4.png)
-
-
-Y esta consulta se enviaría a un único endpoint de GraphQL, independientemente de la complejidad o el número de recursos que se estén solicitando.
 
 ## USE CLIENT
 
