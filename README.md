@@ -25,7 +25,7 @@ De la carpeta app dentro de apolo
 >
 > **\##** **Prerrequisitos**
 >
-> Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu sistema. Puedes descargarlos e instalarlos desde \[Node.jsofficialwebsite\](https://nodejs.org/).
+> Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu sistema. Puedes descargarlos e instalarlos desde (https://nodejs.org/).
 >
 > **\##** **Clonación** **del** **repositorio**
 >
