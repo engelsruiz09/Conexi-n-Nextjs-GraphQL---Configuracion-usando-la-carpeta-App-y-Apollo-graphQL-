@@ -102,6 +102,7 @@ El use client no puede llamar funciones de backend, no puede llamar una funcion 
 El apollo appprovider viene justo del paquete nextexperimentalsupport
 
 
+
 ## NEXT.JS
 
 Next.js es un marco de trabajo (framework) de código abierto para aplicaciones web desarrolladas con React. Es especialmente conocido por facilitar la creación de aplicaciones web con características como el renderizado del lado del servidor y la generación de sitios estáticos. Aquí hay algunos puntos clave sobre Next.js:
