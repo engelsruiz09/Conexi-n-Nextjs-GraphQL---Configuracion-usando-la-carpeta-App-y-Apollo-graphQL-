@@ -23,11 +23,11 @@ De la carpeta app dentro de apolo
 
 > Sigue estos pasos para obtener una copia delproyecto y ejecutarlo en tu entorno localpara desarrollo y pruebas.
 >
-> ### PREREQUISITOS
+### PREREQUISITOS
 >
 > Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu sistema. Puedes descargarlos e instalarlos desde (https://nodejs.org/).
 >
-> ### CLONACION DEL REPOSITORIO
+### CLONACION DEL REPOSITORIO
 >
 > Para clonar elrepositorio y acceder aldirectorio delproyecto, ejecuta los siguientes comandos en tu terminal:
 >
