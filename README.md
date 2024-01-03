@@ -95,6 +95,12 @@ Aquí hay un ejemplo de cómo podría lucir una consulta GraphQL a un endpoint:
 
 Y esta consulta se enviaría a un único endpoint de GraphQL, independientemente de la complejidad o el número de recursos que se estén solicitando.
 
+## USE CLIENT
+
+El use client no puede llamar funciones de backend, no puede llamar una funcion asyncrona, en componente no puede con un async, se necesita importar de otra forma -\> se necesita un contexto un wrapper es muy comun utilizarlo cuando se utilizan bibliotecas del lado del cliente -\> un apolowrapper
+
+El apollo appprovider viene justo del paquete nextexperimentalsupport
+
 
 ## NEXT.JS
 
@@ -122,11 +128,7 @@ Next.js es ideal para:
 - Desarrolladores que prefieren un marco de trabajo con una curva de aprendizaje relativamente baja pero con características avanzadas.
 
 
-## USE CLIENT
 
-El use client no puede llamar funciones de backend, no puede llamar una funcion asyncrona, en componente no puede con un async, se necesita importar de otra forma -\> se necesita un contexto un wrapper es muy comun utilizarlo cuando se utilizan bibliotecas del lado del cliente -\> un apolowrapper
-
-El apollo appprovider viene justo del paquete nextexperimentalsupport
 
 
 ## APRENDE MAS
