@@ -23,11 +23,11 @@ De la carpeta app dentro de apolo
 
 > Sigue estos pasos para obtener una copia delproyecto y ejecutarlo en tu entorno localpara desarrollo y pruebas.
 >
-> \## PREREQUISITOS
+> ### PREREQUISITOS
 >
 > Antes de comenzar, asegúrate de tener Node.js y npm instalados en tu sistema. Puedes descargarlos e instalarlos desde (https://nodejs.org/).
 >
-> \## CLONACION DEL REPOSITORIO
+> ### CLONACION DEL REPOSITORIO
 >
 > Para clonar elrepositorio y acceder aldirectorio delproyecto, ejecuta los siguientes comandos en tu terminal:
 >
@@ -70,7 +70,7 @@ Se uso esto :
 
 ![Imagen 4](conexion/imagen3.png)
 
-# GRAPHQL Y ENDPOINST
+## GRAPHQL Y ENDPOINST
 
 GraphQL es un lenguaje de consulta para APIs y un tiempo de ejecución del lado del servidor para ejecutar esas consultas especificando tus estructuras de datos. Fue desarrollado internamente por Facebook en 2012 antes de ser liberado públicamente en 2015. Ofrece una alternativa más eficiente y flexible a la arquitectura REST tradicional.
 
