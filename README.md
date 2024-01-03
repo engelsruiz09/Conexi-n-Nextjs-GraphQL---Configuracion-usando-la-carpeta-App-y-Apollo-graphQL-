@@ -70,7 +70,7 @@ Se uso esto :
 
 ![Imagen 4](conexion/imagen3.png)
 
-# GRAPHQL Y ENDOPOINST
+# GRAPHQL Y ENDPOINST
 
 GraphQL es un lenguaje de consulta para APIs y un tiempo de ejecución del lado del servidor para ejecutar esas consultas especificando tus estructuras de datos. Fue desarrollado internamente por Facebook en 2012 antes de ser liberado públicamente en 2015. Ofrece una alternativa más eficiente y flexible a la arquitectura REST tradicional.
 
@@ -88,11 +88,11 @@ Aquí hay algunas características clave de GraphQL:
 
 En el contexto de GraphQL, el término \"endpoint\" se usa de manera diferente que en REST. Mientras que en una API REST podrías tener múltiples endpoints (URLs) para diferentes recursos, en GraphQL típicamente tienes un solo endpoint HTTP (por ejemplo, /graphql) donde todas las consultas son enviadas mediante peticiones POST. Las operaciones específicas, como las consultas para recuperar datos o las mutaciones para cambiar datos, se especifican dentro del cuerpo de la petición.
 
-## Next.js
+## NEXT.JS
 
 Next.js es un marco de trabajo (framework) de código abierto para aplicaciones web desarrolladas con React. Es especialmente conocido por facilitar la creación de aplicaciones web con características como el renderizado del lado del servidor y la generación de sitios estáticos. Aquí hay algunos puntos clave sobre Next.js:
 
-## Características Principales
+## CARACTERISTICAS PRINCIPALES
 
 - **Renderizado del Lado del Servidor (Server-Side Rendering, SSR)**: Next.js permite que las páginas se rendericen en el servidor, lo que puede mejorar significativamente el tiempo de carga y la optimización para motores de búsqueda.
 
@@ -106,7 +106,7 @@ Next.js es un marco de trabajo (framework) de código abierto para aplicaciones 
 
 - **API Routes**: Facilita la creación de API endpoints dentro del mismo proyecto Next.js.
 
-## Casos de Uso
+## CASOS DE USO
 
 Next.js es ideal para:
 - Aplicaciones web que necesitan una carga rápida y una buena optimización para motores de búsqueda.
