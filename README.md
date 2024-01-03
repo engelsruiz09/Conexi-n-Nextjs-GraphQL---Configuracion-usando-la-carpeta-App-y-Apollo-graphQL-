@@ -63,7 +63,7 @@ Abre http://localhost:3000 con tu navegador para ver el resultado.
 
 Esto es una forma de obtener los datos desde backend porque todo esto es componente de servidor utilizando graphql
 
-# PARA SOLUCIONAR EL PROBLEMA DE MODULE NOT FOUND: CANT RESOLVE
+## PARA SOLUCIONAR EL PROBLEMA DE MODULE NOT FOUND: CANT RESOLVE
 \'@/lib/client\'
 
 Se uso esto :
@@ -88,8 +88,34 @@ Aquí hay algunas características clave de GraphQL:
 
 En el contexto de GraphQL, el término \"endpoint\" se usa de manera diferente que en REST. Mientras que en una API REST podrías tener múltiples endpoints (URLs) para diferentes recursos, en GraphQL típicamente tienes un solo endpoint HTTP (por ejemplo, /graphql) donde todas las consultas son enviadas mediante peticiones POST. Las operaciones específicas, como las consultas para recuperar datos o las mutaciones para cambiar datos, se especifican dentro del cuerpo de la petición.
 
-Aquí hay un ejemplo de cómo podría lucir una consulta GraphQL a un
-endpoint:
+## Next.js
+
+Next.js es un marco de trabajo (framework) de código abierto para aplicaciones web desarrolladas con React. Es especialmente conocido por facilitar la creación de aplicaciones web con características como el renderizado del lado del servidor y la generación de sitios estáticos. Aquí hay algunos puntos clave sobre Next.js:
+
+## Características Principales
+
+- **Renderizado del Lado del Servidor (Server-Side Rendering, SSR)**: Next.js permite que las páginas se rendericen en el servidor, lo que puede mejorar significativamente el tiempo de carga y la optimización para motores de búsqueda.
+
+- **Generación de Sitios Estáticos (Static Site Generation, SSG)**: Puedes pre-renderizar páginas en el momento de la construcción, lo que mejora la velocidad de carga y la eficiencia.
+
+- **Enrutamiento Basado en Archivos**: Las rutas se definen según la estructura de archivos en el proyecto, lo que simplifica el proceso de enrutamiento.
+
+- **Optimización Automática**: Next.js optimiza automáticamente la aplicación para un mejor rendimiento.
+
+- **Soporte de CSS y SASS**: Permite integrar fácilmente hojas de estilo CSS y SASS.
+
+- **API Routes**: Facilita la creación de API endpoints dentro del mismo proyecto Next.js.
+
+## Casos de Uso
+
+Next.js es ideal para:
+- Aplicaciones web que necesitan una carga rápida y una buena optimización para motores de búsqueda.
+- Proyectos que se benefician del renderizado del lado del servidor y/o la generación de sitios estáticos.
+- Desarrolladores que prefieren un marco de trabajo con una curva de aprendizaje relativamente baja pero con características avanzadas.
+
+
+
+Aquí hay un ejemplo de cómo podría lucir una consulta GraphQL a un endpoint:
 
 ![Imagen 5](conexion/imagen4.png)
 
