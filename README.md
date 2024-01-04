@@ -70,7 +70,7 @@ Se uso esto :
 
 ![Imagen 4](conexion/imagen3.png)
 
-## GRAPHQL Y ENDPOINST
+## GRAPHQL Y ENDPOINTS
 
 GraphQL es un lenguaje de consulta para APIs y un tiempo de ejecución del lado del servidor para ejecutar esas consultas especificando tus estructuras de datos. Fue desarrollado internamente por Facebook en 2012 antes de ser liberado públicamente en 2015. Ofrece una alternativa más eficiente y flexible a la arquitectura REST tradicional.
 
